@@ -60,6 +60,16 @@ for (let subordinate of employee.subordinates) {
     departmentsalary += calculateDepartmentSalary (subordinate);
 }
 
+// Task 3: Create a Function to Calculate the Total Salary for All Departments
+
+function calculateCompanySalary (departments) {
+    let samantha (totalsum += departmentsalary, sales);
+    let frank (totalsum += departmentsalary, sales);
+    let rachael (totalsum += departmentsalary, sales);
+    => Sales department
+
+}
+
 
         
 
